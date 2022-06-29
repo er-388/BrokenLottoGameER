@@ -1,0 +1,14 @@
+C:\Users\Erkki\source\repos\Harjoituksia\BrokenLottoGame\BrokenLottoGame\bin\Debug\netcoreapp3.1\BrokenLottoGame.exe
+C:\Users\Erkki\source\repos\Harjoituksia\BrokenLottoGame\BrokenLottoGame\bin\Debug\netcoreapp3.1\BrokenLottoGame.deps.json
+C:\Users\Erkki\source\repos\Harjoituksia\BrokenLottoGame\BrokenLottoGame\bin\Debug\netcoreapp3.1\BrokenLottoGame.runtimeconfig.json
+C:\Users\Erkki\source\repos\Harjoituksia\BrokenLottoGame\BrokenLottoGame\bin\Debug\netcoreapp3.1\BrokenLottoGame.runtimeconfig.dev.json
+C:\Users\Erkki\source\repos\Harjoituksia\BrokenLottoGame\BrokenLottoGame\bin\Debug\netcoreapp3.1\BrokenLottoGame.dll
+C:\Users\Erkki\source\repos\Harjoituksia\BrokenLottoGame\BrokenLottoGame\bin\Debug\netcoreapp3.1\BrokenLottoGame.pdb
+C:\Users\Erkki\source\repos\Harjoituksia\BrokenLottoGame\BrokenLottoGame\obj\Debug\netcoreapp3.1\BrokenLottoGame.csproj.AssemblyReference.cache
+C:\Users\Erkki\source\repos\Harjoituksia\BrokenLottoGame\BrokenLottoGame\obj\Debug\netcoreapp3.1\BrokenLottoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkki\source\repos\Harjoituksia\BrokenLottoGame\BrokenLottoGame\obj\Debug\netcoreapp3.1\BrokenLottoGame.AssemblyInfoInputs.cache
+C:\Users\Erkki\source\repos\Harjoituksia\BrokenLottoGame\BrokenLottoGame\obj\Debug\netcoreapp3.1\BrokenLottoGame.AssemblyInfo.cs
+C:\Users\Erkki\source\repos\Harjoituksia\BrokenLottoGame\BrokenLottoGame\obj\Debug\netcoreapp3.1\BrokenLottoGame.csproj.CoreCompileInputs.cache
+C:\Users\Erkki\source\repos\Harjoituksia\BrokenLottoGame\BrokenLottoGame\obj\Debug\netcoreapp3.1\BrokenLottoGame.dll
+C:\Users\Erkki\source\repos\Harjoituksia\BrokenLottoGame\BrokenLottoGame\obj\Debug\netcoreapp3.1\BrokenLottoGame.pdb
+C:\Users\Erkki\source\repos\Harjoituksia\BrokenLottoGame\BrokenLottoGame\obj\Debug\netcoreapp3.1\BrokenLottoGame.genruntimeconfig.cache
